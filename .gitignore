@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+scratch/
+calibration_data/
+.env
+*.log
+.DS_Store
+backup/
