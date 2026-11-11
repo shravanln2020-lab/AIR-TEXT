@@ -1,3 +1,4 @@
+<img width="1343" height="886" alt="Screenshot 2026-11-11 170355" src="https://github.com/user-attachments/assets/bf34427d-c91a-4b00-9cf0-5fa2a986ae27" />
 # AIR TEXT — Real-Time Air Writing to Text Converter
 
 A robust, beginner-friendly Python desktop application that tracks your hand through a live webcam, captures letters and words written in the air using your index finger, recognizes the writing via fast oriented point-cloud matching, and converts it into digital text in real time.
